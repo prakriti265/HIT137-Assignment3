@@ -1,5 +1,5 @@
 """
-HIT137 Assignment 3 - Advanced Image Processing Application - 
+HIT137 Assignment 3 - Image Processing Application - 
 
 
 A professional desktop application for image processing using OpenCV and Tkinter.
@@ -1541,4 +1541,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
