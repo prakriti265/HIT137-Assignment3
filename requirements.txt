@@ -1,5 +1,6 @@
-# Python Dependencies for Advanced Image Processing Studio
 # HIT137 Assignment 3
+
+# Python Dependencies for Advanced Image Processing Studio
 
 # Core Image Processing Library
 opencv-python==4.8.1.78
