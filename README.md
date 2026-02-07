@@ -13,7 +13,6 @@ A professional desktop application for image processing built with Python, OpenC
 - [Project Structure](#project-structure)
 - [OOP Design](#oop-design)
 - [Unique Features](#unique-features)
-- [Screenshots](#screenshots)
 - [Testing](#testing)
 - [GitHub Workflow](#github-workflow)
 
