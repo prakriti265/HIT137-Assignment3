@@ -1,4 +1,4 @@
-## HIT137 Assignment 3 - Desktop Image Processing Application
+## HIT137 Assignment 3 - Image Processing Application
 
 A professional desktop application for image processing built with Python, OpenCV, and Tkinter, demonstrating advanced Object-Oriented Programming principles and comprehensive GUI design.
 
@@ -175,8 +175,6 @@ image-processing-app/
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file
 ├── github_link.txt        # GitHub repository link
-├── TESTING.md             # Testing documentation
-├── CONTRIBUTING.md        # Contribution guidelines
 │
 ├── sample_images/         # Sample images for testing
 │   ├── test_image_1.jpg
@@ -184,14 +182,10 @@ image-processing-app/
 │   └── test_image_3.bmp
 │
 ├── outputs/               # Example output images
-│   ├── grayscale_example.png
-│   ├── edge_detection_example.png
-│   └── sharpen_example.png
-│
-└── docs/                  # Additional documentation
-    ├── USER_GUIDE.md
-    ├── TECHNICAL_DOCS.md
-    └── OOP_DESIGN.md
+    ├── grayscale_example.png
+    ├── edge_detection_example.png
+    └── sharpen_example.png
+
 ```
 
 ---
@@ -343,7 +337,7 @@ image-processing-app/
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 See [TESTING.md](TESTING.md) for detailed testing procedures.
 
@@ -439,9 +433,6 @@ This project demonstrates:
 
 ---
 
-## License
-
-This project is created for educational purposes as part of HIT137 coursework.
 
 ---
 
